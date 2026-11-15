@@ -1,0 +1,17 @@
+{
+  "id": "com.example.nuvio.legalstreams",
+  "version": "1.0.0",
+  "name": "Nuvio Legal Streams",
+  "description": "Stream links for movies and series from sources you are authorized to distribute.",
+  "resources": [
+    "stream"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": []
+}
